@@ -9,9 +9,9 @@ LAB 2 updates features like adding new cards
 ### App Walk-though
 
 
-<img src="https://imgur.com/a/wLVBD26 width=400 height=400><br>
+<img src="https://imgur.com/a/wLVBD26" width=400 height=400><br>
 
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+
 
 ## Required
 - [X] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
