@@ -4,41 +4,45 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity"
+    tools:context=".AddCardActivity"
     android:background="#966111"
     >
 
-
-    <TextView
-        android:id="@+id/flashcard_question"
+    <EditText
+        android:id="@+id/insertQuestion"
         android:layout_width="match_parent"
-        android:layout_height="200dp"
+        android:layout_height="100dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
-        android:background="@drawable/card_background"
-        android:elevation="5dp"
+        android:layout_marginTop="37dp"
         android:gravity="center"
-        android:text="Who is the 44th president of the United States?"
-        android:textSize="40sp" />
+        android:hint="insert your question"
+        android:inputType="textMultiLine" />
 
-    <TextView
-        android:id="@+id/flashcard_answer"
+    <EditText
+        android:id="@+id/insertAnswer"
         android:layout_width="match_parent"
-        android:layout_height="330dp"
+        android:layout_height="100dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
-
+        android:layout_marginTop="157dp"
         android:gravity="center"
-        android:text="Barrack Obama"
-        android:textSize="40sp"
-        android:visibility="invisible" />
-
+        android:hint="insert your answer"
+        android:inputType="textMultiLine" />
 
     <ImageView
-        android:id="@+id/nextAct"
+        android:id="@+id/upload"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:src="@drawable/ic_file_upload_black_24dp" />
+    <ImageView
+        android:id="@+id/button_can"
         android:layout_width="100dp"
         android:layout_height="100dp"
         android:layout_alignParentBottom="true"
         android:layout_alignParentEnd="true"
-        android:src="@drawable/ic_add_circle_outline_black_24dp" />
+        android:src="@drawable/ic_close_black_24dp" />
+
 </RelativeLayout>
