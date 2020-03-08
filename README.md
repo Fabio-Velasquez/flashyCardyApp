@@ -9,7 +9,7 @@ LAB 2 updates features like adding new cards
 ### App Walk-though
 
 
-<img src="https://imgur.com/gallery/wLVBD26" width=400 height=400><br>
+<img src="https://i.imgur.com/6e2Pqsg.gif" width=400 height=400><br>
 
 
 
