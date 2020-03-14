@@ -1,5 +1,25 @@
 
-📝 `NOTE` Paste this template at the top of your existing `README.md` file from the last lab.
+## Lab 3
+
+### App Description
+new feature like shuffling through newly made cards
+
+### App Walk-though
+
+<img src="https://i.imgur.com/zt3T4kE.gif" width=400 height=400><br>
+
+
+
+## Required
+- [X] User can create a card and still see their created card when the app is relaunched.
+- [X] User can create muliple cards and browse through all created cards
+
+## Optional
+- [ ] User can delete a card and no longer see it in their deck anymore
+- [ ] Flashcards are shown in random order instead of the order they were created in
+- [ ] User can edit a card and see the edit saved when they browse through their deck of cards
+- [ ] User can create flashcards with multiple answers and be able to browse through cards with multiple choice answers shown
+
 
 ## Lab 2
 
@@ -8,10 +28,7 @@ LAB 2 updates features like adding new cards
 
 ### App Walk-though
 
-
 <img src="https://i.imgur.com/6e2Pqsg.gif" width=400 height=400><br>
-
-
 
 ## Required
 - [X] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
