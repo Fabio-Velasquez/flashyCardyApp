@@ -5,7 +5,6 @@
 new feature like shuffling through newly made cards
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 <img src="https://i.imgur.com/zt3T4kE.gif" width=400 height=400><br>
 
@@ -29,10 +28,7 @@ LAB 2 updates features like adding new cards
 
 ### App Walk-though
 
-
 <img src="https://i.imgur.com/6e2Pqsg.gif" width=400 height=400><br>
-
-
 
 ## Required
 - [X] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
